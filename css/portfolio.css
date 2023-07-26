@@ -1,0 +1,139 @@
+.top-nav-bar{
+    background: aliceblue;
+    display: block;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+
+
+
+
+.bar {
+    background-color: #1c1d1d;
+ }
+
+
+.section{
+    scroll-snap-align: start;
+    /* font-family:  'Fira Code', monospace; */
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+#secondary-banner{
+    text-align: center;
+    height: 254px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1c1d1d;
+    padding-top: 100px;
+}
+
+main{
+    background: aliceblue;
+}
+
+.card{
+    border: none;
+    box-shadow: 0px 8px 6px -6px rgba(235, 234, 242, 0.58);
+    -webkit-transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+    transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+    -webkit-transition-property: -webkit-transform, box-shadow;
+    -webkit-transition-property: transform, box-shadow;
+    transition-property: transform, box-shadow;
+}
+.card a{
+    color: #1c1d1d;
+    text-decoration: none;
+}
+.card:hover{
+    transform: translate(0%,-2%);
+    box-shadow: 0px 8px 6px -6px rgba(200, 199, 207, 0.58);
+    cursor: pointer;
+}
+.card .bd-placeholder-img{
+    background: #deedf9;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text{
+    font-size: 14px;
+    line-height: 1.5rem;
+}
+
+#portfolio-list{
+    margin-bottom: 48px;
+}
+
+#portfolio-list > .container > .row > div{
+    margin: auto;
+}
+
+#portfolio-list > .container > .row > div#my-other-works-header {
+    margin-top: 98px;
+    text-align: center;
+}
+#portfolio-list > .container > .row > div#my-other-works-header > div{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.portfolio-description{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    max-width: 900px;
+    margin: auto;
+    width: 100%;
+}
+.portfolio-description a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #2591d3;
+    display: block;
+    padding-bottom: 12px;
+}
+
+.portfolio-description a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+  .carousel-inner {
+    width: 80%;
+    margin: auto;
+}
+
+
+
+
+
+@media (max-width: 575.98px) { 
+    .carousel-inner {
+        width: 88%;
+    }
+    .carousel-control-prev {
+        left: -12px;
+    }
+    .carousel-control-next {
+        right: -12px;
+    }
+
+    .card-text{
+        display: none;
+    }
+    .card-title {
+        font-size: 1rem;
+    }
+
+
+    .portfolio-description {
+        font-size: 1rem;
+    }
+}

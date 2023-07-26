@@ -1,1 +1,192 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gelvin De Leon</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    
+<main>
+  
+        <div id="hero-banner" class="primary-banner section">    
+            <div class="context">
+                <h1>GELVIN</h1>
+                <div class="banner-sub-text"><h2>&lt; Front-end Developer /&gt;</h2></div>
+            </div>
+            <div class="area" >
+                        <ul class="circles">
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                        </ul>
+            </div>
+        </div>
+        <div id="about-me" class="section">
+            <div id="about-me-content" class="container ">
+                <div class="row">
+                    <div class="col-lg-7">
+                      <h2>About Me</h2>
+                      <p>I like both technology and design. And being a front-end developer gives me the best of both worlds by creating great user experience and providing solutions using technology. 
+                        </p>  
+                        <p>I graduated with a degree in Computer Studies and for the past 8 years, I've been doing Web development.
+                            
+                            I currently work as a front-end developer at Key Media creating thoughtful Award and Event websites, EDMs, and web contents that adheres to web standards across the company's different verticals globally. 
+                            </p>
+                            <p>
+                            I am always eager to learn and further develop my skills and I am very open to learning new technologies and concepts, as well as working with a collaborative team.</p>  
+                    </div>
+                    <div class="col-lg-5 graphics-container">
+                        <div  id="about-me-graphics" ><img src="images/about-pic.png"> </div>
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div id="portfolio" class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-2 works-graphics">
+                            <i id="code-icon" class="fa fa-code" aria-hidden="true"></i> 
+                    </div>
+                    <div class="col-2 works-graphics works-graphics-2">
+                            <i id="brush-icon" class="fa fa-paint-brush" aria-hidden="true"></i>
+                    </div>
+                    
+                    
+                    <div class="col-lg-8 works-content">
+                            <div>
+                                <div class="works-graphics-content"> 
+                                    <i class="fa fa-code" aria-hidden="true"></i> 
+                                    <i class="fa fa-paint-brush" aria-hidden="true"></i>
+                                </div>
+                                <h2>My Portfolio</h2>
+                                <p>Over the years, I've created websites, solutions, and designs in different projects globally such as financial services, lending, business promotion, awards, and event sites.</p>    
+                                <a href="/portfolio.html">SEE MY WORKS</a>
+                            </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+        <div id="contact" class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="contact-details"> 
+                        <div>
+                            <i class="fa fa-comments-o chat-icon" aria-hidden="true"></i>
+                        </div>
+                        <div>
+                            <h2><b>Feel free to contact me</b></h2>
+                            <div>
+                                <span><i class="fa fa-envelope" aria-hidden="true"></i> Email: </span>
+                                <a href="mailto:deleon.gelvin@gmail.com">deleon.gelvin@gmail.com</a>
+                            </div>
+                            
+                            <div>
+                                <span><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn: </span><a href="https://www.linkedin.com/in/gelvin-de-leon-a91200140/">gelvin-de-leon-a91200140</a>
+                            </div>
+                       </div>
+                        
+                        
+                    </div>
+                    <div class="copyright">© Gelvin De Leon 2023</div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        
+</main>
+
+<div id="menu">
+    <div id="menu-bar" onclick="menuOnClick()">
+      <div id="bar1" class="bar"></div>
+      <div id="bar2" class="bar"></div>
+      <div id="bar3" class="bar"></div>
+    </div>
+    <nav class="nav" id="nav">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/portfolio.html">My Portfolio</a></li>
+        <li><a href="/gelvin-de-leon-resume.pdf">My Resume</a></li>
+      </ul>
+    </nav> 
+  </div>
+  
+  <div class="menu-bg" id="menu-bg"></div>
+
+
+
+  
+<script>
+    function menuOnClick() {
+  document.getElementById("menu-bar").classList.toggle("change");
+  document.getElementById("nav").classList.toggle("change");
+  document.getElementById("menu-bg").classList.toggle("change-bg");
+}
+
+document.getElementById("about-me-graphics").style.display = "none";
+document.getElementById("code-icon").style.display = "none";
+document.getElementById("brush-icon").style.display = "none";
+
+//for section detection to change element colors.. *note, use css instead on changing stye
+window.addEventListener("scroll", function() {
+
+  var heroBannerSection = document.getElementById("hero-banner");
+  var aboutMeSection = document.getElementById("about-me");
+  var portfolioSection = document.getElementById("portfolio");
+  var contactSection = document.getElementById("contact");
+
+  const heroBanner = heroBannerSection.getBoundingClientRect();
+  const aboutMe = aboutMeSection.getBoundingClientRect();
+  const portfolio = portfolioSection.getBoundingClientRect();
+  const contact = contactSection.getBoundingClientRect();
+         if(heroBanner.bottom <= window.innerHeight && aboutMe.bottom >= window.innerHeight ){ //on hero banner
+
+            // document.getElementById("bar1").style.backgroundColor = "white";
+            // document.getElementById("bar2").style.backgroundColor = "white";
+            // document.getElementById("bar3").style.backgroundColor = "white";
+        }
+        if(aboutMe.bottom <= window.innerHeight && portfolio.bottom >= window.innerHeight ){ //on about
+            document.getElementById("about-me-graphics").style.display = "block";
+            document.getElementById("about-me-graphics").classList.add("fadeSlideAnimate");
+            
+            // document.getElementById("bar1").style.backgroundColor = "red";
+            // document.getElementById("bar2").style.backgroundColor = "red";
+            // document.getElementById("bar3").style.backgroundColor = "red";
+        }
+        if(portfolio.bottom <= window.innerHeight && contact.bottom >= window.innerHeight ){ //on about
+            document.getElementById("code-icon").style.display = "inline-block";
+            document.getElementById("brush-icon").style.display = "inline-block";
+            document.getElementById("code-icon").classList.add("fadeSlideAnimate");
+            document.getElementById("brush-icon").classList.add("fadeSlideAnimate");
+            // document.getElementById("bar1").style.backgroundColor = "white";
+            // document.getElementById("bar2").style.backgroundColor = "white";
+            // document.getElementById("bar3").style.backgroundColor = "white";
+        }
+
+ });
+</script>
+    
+</body>
+</html>
