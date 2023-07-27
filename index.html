@@ -167,7 +167,8 @@ window.addEventListener("scroll", function() {
             // document.getElementById("bar2").style.backgroundColor = "white";
             // document.getElementById("bar3").style.backgroundColor = "white";
         }
-        if(aboutMe.bottom <= window.innerHeight && portfolio.bottom >= window.innerHeight ){ //on about
+        if((aboutMe.bottom - (aboutMe.bottom/3)) <= window.innerHeight && (portfolio.bottom - (portfolio.bottom/3)) >= window.innerHeight ){ //on about
+            console.log("aboutME: " + aboutMe.bottom +"portfolio: " + portfolio.bottom + " window:" + window.innerHeight);
             document.getElementById("about-me-graphics").style.display = "block";
             document.getElementById("about-me-graphics").classList.add("fadeSlideAnimate");
             
@@ -175,7 +176,8 @@ window.addEventListener("scroll", function() {
             // document.getElementById("bar2").style.backgroundColor = "red";
             // document.getElementById("bar3").style.backgroundColor = "red";
         }
-        if(portfolio.bottom <= window.innerHeight && contact.bottom >= window.innerHeight ){ //on about
+        if((portfolio.bottom - (portfolio.bottom/3)) <= window.innerHeight && (contact.bottom - (contact.bottom/3)) >= window.innerHeight ){ //on about
+             console.log(" window:" + window.innerHeight);
             document.getElementById("code-icon").style.display = "inline-block";
             document.getElementById("brush-icon").style.display = "inline-block";
             document.getElementById("code-icon").classList.add("fadeSlideAnimate");
