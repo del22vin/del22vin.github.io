@@ -441,6 +441,13 @@
 
 
 
+  .graphics-container iframe{
+    margin-top: 25px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+
 
 @media (max-width: 1199.98px) { 
    
@@ -611,6 +618,10 @@
         height: auto;
         padding: 72px 0;
     }
+
+
+
+
 }
 
 
@@ -684,7 +695,7 @@
 
     
     #about-me-graphics img{
-        max-width: 200px;
+        max-width: 300px;
     }
 
 
@@ -705,6 +716,16 @@
     }
 
 
+   
+}
+
+@media (max-width: 400px) { 
+    #about-me .graphics-container{
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+   
 }
 
 
