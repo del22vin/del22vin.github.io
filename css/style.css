@@ -511,7 +511,7 @@
         scroll-snap-type: none !important;
     }
     
-    #about-me, #portfolio {
+    #about-me{
         height: auto;
         padding: 80px 0px;
     }
