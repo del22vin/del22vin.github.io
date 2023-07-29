@@ -489,8 +489,26 @@
   }
 
 
+
+
+
+
 @media (max-width: 1199.98px) { 
    
+
+    html {
+        overflow-y: scroll;
+        scroll-snap-type: none !important;
+    }
+    
+    #about-me, #portfolio {
+        height: auto;
+        padding: 80px 0px;
+    }
+    #contact {
+        height: auto;
+        padding: 72px 0;
+    }
  
 }
 
