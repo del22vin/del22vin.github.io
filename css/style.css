@@ -589,7 +589,9 @@
         max-width: 300px;
     }
 
-
+    #wes-badge img{
+        max-width: 72px;
+    }
 
 
 
