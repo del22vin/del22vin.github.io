@@ -450,13 +450,10 @@
 
   #wes-badge{
     text-align: center;
-    font-size: 12px;
-    line-height: 16px;
     background: white;
     padding: 24px;
     border: 2px solid #199154;
     border-radius: 24px;
-    width: 200px;
     margin: 20px auto;
     box-shadow: 0px 8px 6px -6px rgba(235, 234, 242, 0.58);
     -webkit-transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
@@ -467,10 +464,17 @@
     transition-property: transform, box-shadow;
     display: block;
     text-decoration: none;
+
+    float: right;
+    width: 30%;
+    font-size: 9px;
+    line-height: 14px;
+    max-width: 125px;
   }
 
   #wes-badge img{
-    width: 100px;
+    width: 100%;
+    max-width: 72px;
   }
   .wes-badge-verified{
     display: block;
@@ -489,8 +493,14 @@
   }
 
 
+    #about-me-graphics{
+        text-align: center;
+    }
 
-
+    #about-me-graphics img#about-me-graphics-img{
+        padding: 56px 0;
+        width: 70%;
+    }
 
 
 @media (max-width: 1199.98px) { 
@@ -775,8 +785,10 @@
 
 
     #wes-badge {
-        font-size: 10px;
         padding: 10px;
+
+        font-size: 8px;
+        line-height: 10px;
     }
     #wes-badge img {
         width: 80px;
@@ -789,7 +801,14 @@
         margin: auto;
         text-align: center;
     }
-   
+   #wes-badge{
+    width: 100%;
+    float: none;
+   }
+   #about-me-graphics img#about-me-graphics-img{
+    padding: 0;
+    width: 90%;
+}
 }
 
 
