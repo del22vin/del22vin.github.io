@@ -52,3 +52,24 @@ html::-webkit-scrollbar { width: 0 !important }
     50% { border-color: white; }
   }
 
+
+.ct-btn-scroll{
+  width: 124px;
+  height: 124px;
+  position: absolute;
+  bottom: 124px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding-top: 500px;
+  z-index: 9;
+  border-radius: 50%;
+  -webkit-transition: background-color 0.25s ease-in-out;
+  transition: background-color 0.25s ease-in-out;
+}
+
+.ct-btn-scroll i{
+  color: #ffffff;
+  font-size: 56px;
+}
+
