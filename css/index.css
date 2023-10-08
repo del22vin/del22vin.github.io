@@ -66,10 +66,15 @@ html::-webkit-scrollbar { width: 0 !important }
   border-radius: 50%;
   -webkit-transition: background-color 0.25s ease-in-out;
   transition: background-color 0.25s ease-in-out;
+  text-decoration: none;
 }
 
 .ct-btn-scroll i{
   color: #ffffff;
   font-size: 56px;
+  margin: auto;
+  display: block;
+  text-align: center;
+  text-decoration: none;
 }
 
