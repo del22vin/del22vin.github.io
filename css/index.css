@@ -71,10 +71,41 @@ html::-webkit-scrollbar { width: 0 !important }
 
 .ct-btn-scroll i{
   color: #ffffff;
-  font-size: 56px;
+  font-size: 44px;
   margin: auto;
   display: block;
   text-align: center;
   text-decoration: none;
 }
 
+.floating {  
+  animation-name: floating;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+@keyframes floating {
+  0% { transform: translate(0,  0px); }
+  50%  { transform: translate(0, 15px); }
+  100%   { transform: translate(0, -0px); }    
+}
+
+@media (max-width: 767.98px) { 
+
+  .ct-btn-scroll i{
+    font-size: 36px;
+  }
+
+}
+
+
+@media (max-width: 400px) {
+  
+  .ct-btn-scroll i{
+    font-size: 32px;
+  }
+
+ }
