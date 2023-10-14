@@ -6,18 +6,20 @@ import Portfolio from './components/pages/portfolio';
 
 import PortfolioDetails from './components/pages/portfolioDetails';
 
+import { HashRouter as Router } from "react-router-dom";
+
 function App() {
   return (
 
-      <BrowserRouter basename={"/"}>
+      <Router>
+        <Layout />
         <Routes>
-          <Route path="/" element={<Layout />}>
-            <Route index element={<Home />} />
-            <Route path="portfolio" element={<Portfolio />} />
-            <Route path="portfolio/:name/:id" element={<PortfolioDetails />} />
-          </Route>
+            <Route path="/" element={<Home />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/portfolio/:name/:id" element={<PortfolioDetails />} />
+          
         </Routes>
-      </BrowserRouter>
+      </Router>
 
   );
 }
