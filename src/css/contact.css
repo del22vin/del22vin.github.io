@@ -1,0 +1,102 @@
+
+#contact{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(28, 29, 29);
+    color: #bfbfbf;
+
+}
+
+#contact a{
+    color: #bfbfbf;
+    text-decoration: none;
+}
+#contact a:hover{
+    color:  rgb(37 145 211);
+}
+.contact-details{
+    padding-bottom: 100px;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 31px;
+    line-height: 32px;
+}
+.contact-details svg.chat-icon{
+    font-size: 114px;
+    margin-bottom: 32px;
+}
+
+
+
+@media (max-width: 1199.98px) { 
+   
+
+    html {
+        overflow-y: scroll;
+        scroll-snap-type: none !important;
+    }
+    
+    #about-me{
+        height: auto;
+        padding: 80px 0px;
+    }
+    #contact {
+        height: auto;
+        padding: 72px 0;
+    }
+ 
+}
+
+
+
+
+@media (max-width: 991.98px) { 
+
+    #contact a {
+        font-size: 1.2rem;
+        display: block;
+    }
+
+    #contact {
+        height: auto;
+        padding: 72px 0;
+    }
+
+ }
+
+
+ 
+ @media (max-width: 767.98px) { 
+
+    #contact a {
+        font-size: 1rem;
+        display: block;
+    }
+
+   
+    #contact {
+        height: auto;
+        padding: 72px 0;
+    }
+
+
+}
+
+
+
+@media (max-width: 575.98px) { 
+
+    #contact a {
+        font-size: 1rem;
+        display: block;
+    }
+
+    
+    #contact {
+        height: auto;
+        padding: 72px 0;
+    }
+
+}

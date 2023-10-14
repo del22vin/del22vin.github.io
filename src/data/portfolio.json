@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "name": "Key Media Award and Event Sites",
+      "thumbnail": "km-awards-events-thumb.png",
+      "summary": "Award and Event websites created with Wordpress which features information on company events",
+      "description": "Key Media is an events and publishing company and it delivers content in multiple platforms like websites and magazines. It is a company that holds annual events which features award winning individuals or companies in their fields like law, insurance, mortgage, etc.\n\nAs part of the development team, award and event sites were created using wordpress. These sites features information on the event. Besides working on the features on these websites, I am also involved in managing the contents, optimize images and assisting the events team with their change requests.",
+      "images": [
+            { "url": "km-awards-events-1.jpg", "alt": "Employment Law Masterclass Alberta" },
+            { "url": "km-awards-events-2.jpg", "alt": "KM events 1" },
+            { "url": "km-awards-events-3.jpg", "alt": "KM events 2" },
+            { "url": "km-awards-events-4.jpg", "alt": "KM events 3" },
+            { "url": "km-awards-events-5.jpg", "alt": "KM events 4" }
+        ],
+        "links":[
+            {"name": "Employment Law Masterclass Alberta", "url":"https://alberta.employmentlawmasterclass.com/"},
+            {"name": "Canadian Mortgage Awards", "url":"https://canadianmortgageawards.com/"},
+            {"name": "Mortgage Introducer Awards", "url":"https://www.mortgageintroducerawards.com/"},
+            {"name": "New Zealand Law Awards", "url":"https://lawawards.co.nz/"},
+            {"name": "Learning and Development Summit Sydney", "url":"https://learninganddevelopmentapac.com/"},
+            {"name": "HR Summit Melbourne", "url":"https://melbourne.hrsummit.com.au/"},
+            {"name": "Women in Insurance Summit Chicago", "url":"https://chicago.ibwomenininsurance.com/"},
+            {"name": "Women in Insurance Summit Australia", "url":"https://australia.ibwomenininsurance.com/"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Key Media Special Reports",
+        "thumbnail": "km-sr-thumb.png",
+        "summary": "Special Reports features the list of award winning individuals and companies and a summary of their works",
+        "description": "Key Media is an events and publishing company and it delivers content in multiple platforms like websites and magazines. It is a company that holds annual events which features award winning individuals or companies in their fields like law, insurance, mortgage, etc.\n\nSpecial Reports features the list of award winning individuals and companies and a summary of their works. I coordinate with content creators to create these web pages and provide assistance on creating web elements or reusable code beyond their capabilities to create in their CMS like promo banner, pullquote sections, tables and any formatting issues.",
+        "images": [
+              { "url": "km-sr-1.jpg", "alt": "Special Report 1" },
+              { "url": "km-sr-2.jpg", "alt": "Special Report 2" },
+              { "url": "km-sr-3.jpg", "alt": "Special Report 3" },
+              { "url": "km-sr-4.jpg", "alt": "Special Report 4" },
+              { "url": "km-sr-5.jpg", "alt": "Special Report 5" },
+              { "url": "km-sr-6.jpg", "alt": "Special Report 6" }
+          ],
+          "links":[
+              {"name": "Mortgage Professional America - Elite Women 2023", "url":"https://www.mpamag.com/us/best-in-mortgage/female-leaders-in-mortgage-elite-women-2023/449870"},
+              {"name": "HRD US - Best Places to Work 2023", "url":"https://www.hcamag.com/us/best-in-hr/best-companies-to-work-for-in-the-us-best-places-to-work-2023/446632"},
+              {"name": "Canadian Mortgage Professional - Best Mortgage Employers 2021", "url":"https://www.mpamag.com/ca/best-in-mortgage/best-mortgage-employers-2021/309896"},
+              {"name": "The Educator Australia - Hot List 2021", "url":"https://www.theeducatoronline.com/k12/best-in-education/hot-list-2021/279133"}
+          ]
+    },
+    {
+        "id": 3,
+        "name": "Key Media EDM Emails",
+        "thumbnail": "km-edm-thumb.png",
+        "summary": "Email Templates created for Key Media events and client requests",
+        "description": "Key Media is an events and publishing company and it delivers content in multiple platforms like websites and magazines. It is a company that holds annual events which features award winning individuals or companies in their fields like law, insurance, mortgage, etc.\n\nThe company also sends out EDMs for their events and client requests. I am the point person for coordinating with the marketing team to create EDMs or the html email templates and ensure compatibility across different email clients.",
+        "images": [
+              { "url": "km-edm-1.jpg", "alt": "KM EDM 1" },
+              { "url": "km-edm-2.jpg", "alt": "KM EDM 2" },
+              { "url": "km-edm-3.jpg", "alt": "KM EDM 3" },
+              { "url": "km-edm-4.jpg", "alt": "KM EDM 4" },
+              { "url": "km-edm-5.jpg", "alt": "KM EDM 5" }
+          ],
+          "links":[]
+      },
+      {
+        "id": 4,
+        "name": "Dalaroy Beach Resort",
+        "thumbnail": "dalaroy-thumb.png",
+        "summary": "A website developed for Dalaroy Beach Resort, located in Ternate, Cavite, Philippines",
+        "description": "A website for Dalaroy Beach Resort, located in Ternate, Cavite, Philippines. The website is developed using HTML, CSS, SCSS. Javascript, Bootstrap, Jquery, and Google Maps.",
+        "images": [
+              { "url": "dalaroy-1.jpg", "alt": "dalaroy 1" },
+              { "url": "dalaroy-2.jpg", "alt": "dalaroy 2" },
+              { "url": "dalaroy-3.jpg", "alt": "dalaroy 3" },
+              { "url": "dalaroy-4.jpg", "alt": "dalaroy 4" }
+          ],
+          "links":[
+            {"name": "Dalaroy Beach Resort", "url":"https://del22vin.github.io/dalaroy-beach-resort-website/index.html"}
+          ]
+      },
+      {
+        "id": 5,
+        "name": "Housing and Vehicle Loan Calculator Widget",
+        "thumbnail": "widget-thumb.png",
+        "summary": "Calculator widgets developed for comparing rates from different partner banks",
+        "description": "A Housing loan calculator and Vehicle loan calculator widget developed for C88 Financial Technologies Pte Ltd. These were created for the company's partner websites and allow users to compare rates from different partner banks.\n\nBoth widgets are developed using Javascript and JQuery and features pre-made themes which the partners can choose to complement their website's style.",
+        "images": [
+              { "url": "widget-1.jpg", "alt": "widget 1" },
+              { "url": "widget-2.jpg", "alt": "widget 2" },
+              { "url": "widget-3.jpg", "alt": "widget 3" }
+          ],
+          "links":[
+            {"name": "Housing Loan Calculator Widget", "url":"https://del22vin.github.io/mortgage-calculator-widget/"},
+            {"name": "Vehicle Loan Calculator Widget", "url":"https://del22vin.github.io/vehicle-loan-calculator-widget/"}
+          ]
+      },
+      {
+        "id": 6,
+        "name": "Excel to HTML Table Generator",
+        "thumbnail": "excel-to-table-thumb.png",
+        "summary": "Made for Mortgage Instroducer Website to generate tables from excel file",
+        "description": "A simple generator of HTML tables used by content editors in the Mortgage Introducer Website. The Mortgage Rates on this website are updated weekly and provided to editors via excel file. I used javascript so they can easily extract the data in HTML code ready for the editors to include on the pages via the company's CMS.",
+        "images": [
+              { "url": "excel-to-table-1.jpg", "alt": "table generator 1" },
+              { "url": "excel-to-table-2.jpg", "alt": "table generator 2" },
+              { "url": "excel-to-table-3.jpg", "alt": "table generator 3" }
+          ],
+          "links":[
+            {"name": "Excel to HTML Table Generator", "url":"https://del22vin.github.io/miw-excel-to-html-table/"},
+            {"name": "Mortgage Introducer - Mortgage Rates pages", "url":"https://www.mpamag.com/uk/mortgage-industry/guides/mortgage-rates/411502"}
+          ]
+      },
+      {
+        "id": 7,
+        "name": "Yummy Vites",
+        "thumbnail": "excel-to-table-thumb.png",
+        "summary": "Provided a logo, packaging, and pillow pouch design",
+        "description": "Provided a logo, packaging, and pillow pouch design with 4 different variants as a freelance graphic designer. Yummy Vites is a product of Wert Philippines.",
+        "images": [
+              { "url": "yummy-vites-1.jpg", "alt": "yummy vites design 1" },
+              { "url": "yummy-vites-2.jpg", "alt": "yummy vites design 2" },
+              { "url": "yummy-vites-3.jpg", "alt": "yummy vites design 3" },
+              { "url": "yummy-vites-4.jpg", "alt": "yummy vites design 4" },
+              { "url": "yummy-vites-5.jpg", "alt": "yummy vites design 5" },
+              { "url": "yummy-vites-6.jpg", "alt": "yummy vites design 6" },
+              { "url": "yummy-vites-7.jpg", "alt": "yummy vites design 7" }
+          ],
+          "links":[]
+      },
+      {
+        "id": 8,
+        "name": "Detailing Aid",
+        "thumbnail": "da-thumb.jpg",
+        "summary": "Produced detailing aids for Wert Philippines",
+        "description": "Provided graphic design services to produce detailing aids for different products of Wert Philippines as a freelance graphic designer.",
+        "images": [
+              { "url": "da-1.jpg", "alt": "C2Zinc" },
+              { "url": "da-2.jpg", "alt": "Calciday" },
+              { "url": "da-3.jpg", "alt": "Nutri10" }
+          ],
+          "links":[]
+      },
+      {
+        "id": 9,
+        "name": "Rezyd",
+        "thumbnail": "rezyd-thumb.jpg",
+        "summary": "Box and bottle label design for Rezyd Throat Spray",
+        "description": "Provided a box and bottle label design as a freelance graphic designer for REZYD Throat Spray, a product of Wert Philippines.",
+        "images": [
+              { "url": "rezyd-1.jpg", "alt": "REZYD box" },
+              { "url": "rezyd-1.jpg", "alt": "REZYD Bottle Label" }
+          ],
+          "links":[]
+      }
+]
