@@ -39,7 +39,6 @@ export default function Home() {
                 const portfolio = portfolioSection.getBoundingClientRect();
                 const contact = contactSection.getBoundingClientRect();
                     if(heroBanner.bottom <= window.innerHeight && aboutMe.bottom >= window.innerHeight ){ //on hero banner
-            
                         // document.getElementById("bar1").style.backgroundColor = "white";
                         // document.getElementById("bar2").style.backgroundColor = "white";
                         // document.getElementById("bar3").style.backgroundColor = "white";
