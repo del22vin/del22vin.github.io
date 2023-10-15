@@ -82,7 +82,7 @@ export default function Home() {
                                             <li></li>
                                     </ul>
                         </div>
-                        <a className="ct-btn-scroll ct-js-btn-scroll" href="#about-me">
+                        <a className="ct-btn-scroll ct-js-btn-scroll" href="/#/#about-me">
                             <FontAwesomeIcon className="favicon-icon floating" icon={faChevronDown} />
                         </a>
                     </div>
