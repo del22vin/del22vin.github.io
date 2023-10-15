@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d69b61be.css",
-    "main.js": "/static/js/main.ad70604d.js",
+    "main.js": "/static/js/main.4783f92b.js",
     "static/js/787.815ecc04.chunk.js": "/static/js/787.815ecc04.chunk.js",
     "static/media/km-awards-events-thumb.png": "/static/media/km-awards-events-thumb.ef570f1a9dff62208a67.png",
     "static/media/dalaroy-thumb.png": "/static/media/dalaroy-thumb.09878ac3d2a9d7a7741a.png",
@@ -60,11 +60,11 @@
     "static/media/widget-thumb.jpg": "/static/media/widget-thumb.1d5d63ab935be70c91e2.jpg",
     "index.html": "/index.html",
     "main.d69b61be.css.map": "/static/css/main.d69b61be.css.map",
-    "main.ad70604d.js.map": "/static/js/main.ad70604d.js.map",
+    "main.4783f92b.js.map": "/static/js/main.4783f92b.js.map",
     "787.815ecc04.chunk.js.map": "/static/js/787.815ecc04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d69b61be.css",
-    "static/js/main.ad70604d.js"
+    "static/js/main.4783f92b.js"
   ]
 }
