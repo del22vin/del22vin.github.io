@@ -71,6 +71,10 @@ html.noScroll::-webkit-scrollbar { width: 0 !important }
   text-decoration: none;
 }
 
+.ct-btn-scroll:hover{
+  cursor: pointer;
+}
+
 .ct-btn-scroll .favicon-icon{
   color: #ffffff;
   font-size: 44px;

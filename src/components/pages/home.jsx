@@ -17,6 +17,13 @@ export default function Home() {
             document.getElementById("code-icon").style.display = "none";
             document.getElementById("brush-icon").style.display = "none";
     }
+
+    function scrollToAbout(){
+        var elmntToView = document.getElementById("about-me");
+        elmntToView.scrollIntoView(); 
+    }
+    
+
      //for section detection to change element colors.. *note, use css instead on changing stye
     window.addEventListener("scroll", function() {
         
@@ -24,36 +31,39 @@ export default function Home() {
             var aboutMeSection = document.getElementById("about-me");
             var portfolioSection = document.getElementById("portfolio");
             var contactSection = document.getElementById("contact");
-        
-            const heroBanner = heroBannerSection.getBoundingClientRect();
-            const aboutMe = aboutMeSection.getBoundingClientRect();
-            const portfolio = portfolioSection.getBoundingClientRect();
-            const contact = contactSection.getBoundingClientRect();
-                if(heroBanner.bottom <= window.innerHeight && aboutMe.bottom >= window.innerHeight ){ //on hero banner
-        
-                    // document.getElementById("bar1").style.backgroundColor = "white";
-                    // document.getElementById("bar2").style.backgroundColor = "white";
-                    // document.getElementById("bar3").style.backgroundColor = "white";
-                }
-                if((aboutMe.bottom - (aboutMe.bottom/3)) <= window.innerHeight && (portfolio.bottom - (portfolio.bottom/3)) >= window.innerHeight ){ //on about
-                    console.log("aboutME: " + aboutMe.bottom +"portfolio: " + portfolio.bottom + " window:" + window.innerHeight);
-                    document.getElementById("about-me-content").style.display = "block";
-                    document.getElementById("about-me-content").classList.add("fadeSlideAnimate");
-                    // document.getElementById("bar1").style.backgroundColor = "red";
-                    // document.getElementById("bar2").style.backgroundColor = "red";
-                    // document.getElementById("bar3").style.backgroundColor = "red";
-                }
-                if((portfolio.bottom - (portfolio.bottom/3)) <= window.innerHeight && (contact.bottom - (contact.bottom/3)) >= window.innerHeight ){ //on about
-                    console.log(" window:" + window.innerHeight);
-                    document.getElementById("code-icon").style.display = "inline-block";
-                    document.getElementById("brush-icon").style.display = "inline-block";
-                    document.getElementById("code-icon").classList.add("fadeSlideAnimate");
-                    document.getElementById("brush-icon").classList.add("fadeSlideAnimate");
-                    // document.getElementById("bar1").style.backgroundColor = "white";
-                    // document.getElementById("bar2").style.backgroundColor = "white";
-                    // document.getElementById("bar3").style.backgroundColor = "white";
-                }
-        
+
+            if(heroBannerSection && aboutMeSection && portfolioSection && contactSection){
+
+                const heroBanner = heroBannerSection.getBoundingClientRect();
+                const aboutMe = aboutMeSection.getBoundingClientRect();
+                const portfolio = portfolioSection.getBoundingClientRect();
+                const contact = contactSection.getBoundingClientRect();
+                    if(heroBanner.bottom <= window.innerHeight && aboutMe.bottom >= window.innerHeight ){ //on hero banner
+            
+                        // document.getElementById("bar1").style.backgroundColor = "white";
+                        // document.getElementById("bar2").style.backgroundColor = "white";
+                        // document.getElementById("bar3").style.backgroundColor = "white";
+                    }
+                    if((aboutMe.bottom - (aboutMe.bottom/3)) <= window.innerHeight && (portfolio.bottom - (portfolio.bottom/3)) >= window.innerHeight ){ //on about
+                        //console.log("aboutME: " + aboutMe.bottom +"portfolio: " + portfolio.bottom + " window:" + window.innerHeight);
+                        document.getElementById("about-me-content").style.display = "block";
+                        document.getElementById("about-me-content").classList.add("fadeSlideAnimate");
+                        // document.getElementById("bar1").style.backgroundColor = "red";
+                        // document.getElementById("bar2").style.backgroundColor = "red";
+                        // document.getElementById("bar3").style.backgroundColor = "red";
+                    }
+                    if((portfolio.bottom - (portfolio.bottom/3)) <= window.innerHeight && (contact.bottom - (contact.bottom/3)) >= window.innerHeight ){ //on about
+                        //console.log(" window:" + window.innerHeight);
+                        document.getElementById("code-icon").style.display = "inline-block";
+                        document.getElementById("brush-icon").style.display = "inline-block";
+                        document.getElementById("code-icon").classList.add("fadeSlideAnimate");
+                        document.getElementById("brush-icon").classList.add("fadeSlideAnimate");
+                        // document.getElementById("bar1").style.backgroundColor = "white";
+                        // document.getElementById("bar2").style.backgroundColor = "white";
+                        // document.getElementById("bar3").style.backgroundColor = "white";
+                    }
+            }
+           
     });
     
 
@@ -82,9 +92,9 @@ export default function Home() {
                                             <li></li>
                                     </ul>
                         </div>
-                        <a className="ct-btn-scroll ct-js-btn-scroll" href="/#/#about-me">
+                        <span className="ct-btn-scroll ct-js-btn-scroll" onClick={scrollToAbout}>
                             <FontAwesomeIcon className="favicon-icon floating" icon={faChevronDown} />
-                        </a>
+                        </span>
                     </div>
                     <div id="about-me" className="section">
                         <div id="about-me-content" className="container ">
