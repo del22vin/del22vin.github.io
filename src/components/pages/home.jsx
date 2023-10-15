@@ -154,7 +154,7 @@ export default function Home() {
                                             </div>
                                             <h2>My Portfolio</h2>
                                             <p>Over the years, I've created websites, solutions, and designs in different projects globally such as financial services, lending, business promotion, awards, and event sites.</p>    
-                                            <a href="/portfolio">SEE MY WORKS</a>
+                                            <a href="/#/portfolio">SEE MY WORKS</a>
                                             
                                         </div>
                                 </div>

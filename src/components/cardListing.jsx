@@ -2,7 +2,7 @@ import '../css/cardListing.css';
 
 export default function CardListing({data}) {
 
-    var pageLink = '/portfolio/' + data.name.replace(/\s+/g, '-').toLowerCase() + '/' + data.id;
+    var pageLink = '/#/portfolio/' + data.name.replace(/\s+/g, '-').toLowerCase() + '/' + data.id;
 
     return(
                 <div className="col">
