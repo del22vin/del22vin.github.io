@@ -61,6 +61,20 @@
       },
       {
         "id": 4,
+        "name": "My Portfolio Website",
+        "thumbnail": "my-website-thumb.png",
+        "summary": "A website to showcase my works",
+        "description": "I created and designed this website to showcase my works on both web development and graphic design. This is developed using React.",
+        "images": [
+              { "url": "my-website-1.jpg", "alt": "my website" }, 
+              { "url": "my-website-2.jpg", "alt": "portfolio" }
+          ],
+          "links":[
+            {"name": "https://del22vin.github.io/", "url":"https://del22vin.github.io/"}
+          ]
+      },
+      {
+        "id": 5,
         "name": "Dalaroy Beach Resort",
         "thumbnail": "dalaroy-thumb.png",
         "summary": "A website developed for Dalaroy Beach Resort, located in Ternate, Cavite, Philippines",
@@ -76,7 +90,45 @@
           ]
       },
       {
-        "id": 5,
+        "id": 6,
+        "name": "Peramoko",
+        "thumbnail": "peramoko-thumb.png",
+        "summary": "A lending-as-a-service platform website created under C88 Financial Technologies Pte Ltd.",
+        "description": "Peramoko is a lending-as-a-service platform website where customers who applies for a loan will be given a customized loan offer based on their information. It includes an Employer Workspace for partner companies of C88 Financial Technologies where they can enroll their employees to Peramoko, and a Borrower Workspace for sending loan applications. \n\n\n\n This is an ASP.net project developed using C#, HTML, CSS, JavaScript, and Jquery. A feature called Geolocation is developed with Google Maps API to capture customer's address information accurately. ",
+        "images": [
+              { "url": "peramoko-1.jpg", "alt": "peramoko 1" },
+              { "url": "peramoko-2.jpg", "alt": "peramoko 2" },
+              { "url": "peramoko-3.jpg", "alt": "peramoko 3" },
+              { "url": "peramoko-4.jpg", "alt": "peramoko 4" },
+              { "url": "peramoko-4-2.jpg", "alt": "peramoko 4-2" },
+              { "url": "peramoko-5.jpg", "alt": "peramoko 5" },
+              { "url": "peramoko-6.jpg", "alt": "peramoko 6" },
+              { "url": "peramoko-7.jpg", "alt": "peramoko 7" },
+              { "url": "peramoko-8.jpg", "alt": "peramoko 8" },
+              { "url": "peramoko-9.jpg", "alt": "peramoko 9" },
+              { "url": "peramoko-10.jpg", "alt": "peramoko 10" },
+              { "url": "peramoko-11.jpg", "alt": "peramoko 11" },
+              { "url": "peramoko-12.jpg", "alt": "peramoko 12" },
+              { "url": "peramoko-14.jpg", "alt": "peramoko 14" }
+          ],
+          "links":[
+            {"name": "Peramoko", "url":"https://peramoko.com/"}
+          ]
+      },
+      {
+        "id": 7,
+        "name": "C88 Manage Print Services Email Template",
+        "thumbnail": "c88-mps-thumb.png",
+        "summary": "An email template created for Manage Print Services under C88 Financial Technologies Pte Ltd.",
+        "description": "An email template created with HTML used for managing print requests of applications in C88 Financial Technologies.",
+        "images": [
+              { "url": "c88-mps-1.jpg", "alt": "C88 MPS 1" },
+              { "url": "c88-mps-2.jpg", "alt": "C88 MPS 2" }
+          ],
+          "links":[]
+      },
+      {
+        "id": 8,
         "name": "Housing and Vehicle Loan Calculator Widget",
         "thumbnail": "widget-thumb.png",
         "summary": "Calculator widgets developed for comparing rates from different partner banks",
@@ -92,7 +144,7 @@
           ]
       },
       {
-        "id": 6,
+        "id": 9,
         "name": "Excel to HTML Table Generator",
         "thumbnail": "excel-to-table-thumb.png",
         "summary": "Made for Mortgage Instroducer Website to generate tables from excel file",
@@ -108,9 +160,9 @@
           ]
       },
       {
-        "id": 7,
+        "id": 10,
         "name": "Yummy Vites",
-        "thumbnail": "excel-to-table-thumb.png",
+        "thumbnail": "yummy-vites-1.jpg",
         "summary": "Provided a logo, packaging, and pillow pouch design",
         "description": "Provided a logo, packaging, and pillow pouch design with 4 different variants as a freelance graphic designer. Yummy Vites is a product of Wert Philippines.",
         "images": [
@@ -125,7 +177,7 @@
           "links":[]
       },
       {
-        "id": 8,
+        "id": 11,
         "name": "Detailing Aid",
         "thumbnail": "da-thumb.jpg",
         "summary": "Produced detailing aids for Wert Philippines",
@@ -138,7 +190,7 @@
           "links":[]
       },
       {
-        "id": 9,
+        "id": 12,
         "name": "Rezyd",
         "thumbnail": "rezyd-thumb.jpg",
         "summary": "Box and bottle label design for Rezyd Throat Spray",
