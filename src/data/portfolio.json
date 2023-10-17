@@ -200,5 +200,30 @@
               { "url": "rezyd-2.jpg", "alt": "REZYD Bottle Label" }
           ],
           "links":[]
+      },
+      {
+        "id": 13,
+        "name": "Wert Banners",
+        "thumbnail": "wert-banners-thumb.png",
+        "summary": "Banner designs for Wert Philippines",
+        "description": "Created banner designs for Wert Philippines used on company promotions and conventions.",
+        "images": [
+              { "url": "wert-banners-1.jpg", "alt": "wert banner" },
+              { "url": "wert-banners-2.jpg", "alt": "wert banner 2" }
+          ],
+          "links":[]
+      },
+      {
+        "id": 14,
+        "name": "Fan Art",
+        "thumbnail": "fan-art-thumb.png",
+        "summary": "I create fan art of my favorite game characters during my free time",
+        "description": "I create fan art of my favorite game characters during my free time.",
+        "images": [
+              { "url": "fan-art-1.jpg", "alt": "fan art" },
+              { "url": "fan-art-2.jpg", "alt": "fan art 2" },
+              { "url": "fan-art-3.jpg", "alt": "fan art 3" }
+          ],
+          "links":[]
       }
 ]
