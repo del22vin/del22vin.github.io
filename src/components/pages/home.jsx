@@ -96,7 +96,7 @@ export default function Home() {
                         </span>
                     </div>
                     <div id="about-me" className="section">
-                        <div id="about-me-content" className="container ">
+                        <div id="about-me-content" className="container " style={{display: 'none'}}>
                             <div className="row">
                                 <div className="col-lg-6">
                                 <h2>About Me</h2>
@@ -146,12 +146,12 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-2 works-graphics">
                                         
-                                    <FontAwesomeIcon id="code-icon" className="fa-code" icon={faCode} />
+                                    <FontAwesomeIcon id="code-icon" className="fa-code" icon={faCode} style={{display: 'none'}} />
                                     
                                 </div>
                                 <div className="col-2 works-graphics works-graphics-2">
                                     
-                                    <FontAwesomeIcon  id="brush-icon" className="fa-paint-brush" icon={faPaintbrush} />
+                                    <FontAwesomeIcon  id="brush-icon" className="fa-paint-brush" icon={faPaintbrush} style={{display: 'none'}} />
                                 </div>
                                 
                                 
