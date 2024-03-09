@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1fbdf508.css",
-    "main.js": "/static/js/main.821df83b.js",
+    "main.js": "/static/js/main.83b4b28a.js",
     "static/js/787.815ecc04.chunk.js": "/static/js/787.815ecc04.chunk.js",
     "static/media/km-awards-events-thumb.png": "/static/media/km-awards-events-thumb.ef570f1a9dff62208a67.png",
     "static/media/dalaroy-thumb.png": "/static/media/dalaroy-thumb.09878ac3d2a9d7a7741a.png",
@@ -28,7 +28,7 @@
     "static/media/dalaroy-1.jpg": "/static/media/dalaroy-1.9253366cc7fa2642332b.jpg",
     "static/media/my-website-2.jpg": "/static/media/my-website-2.748d06eb0846ab321350.jpg",
     "static/media/yummy-vites-6.jpg": "/static/media/yummy-vites-6.94f5aa2db5d3bea53f58.jpg",
-    "static/media/gelvin-de-leon-resume.pdf": "/static/media/gelvin-de-leon-resume.e7fdc3dcf6330eb8fe71.pdf",
+    "static/media/gelvin-de-leon-resume.pdf": "/static/media/gelvin-de-leon-resume.18b9a844cbfec6731588.pdf",
     "static/media/dalaroy-4.jpg": "/static/media/dalaroy-4.135cad436a965054f310.jpg",
     "static/media/yummy-vites-3.jpg": "/static/media/yummy-vites-3.b46f7e017e5bc991451c.jpg",
     "static/media/yummy-vites-4.jpg": "/static/media/yummy-vites-4.6414be66a255d68aa44a.jpg",
@@ -91,11 +91,11 @@
     "static/media/peramoko-thumb.png": "/static/media/peramoko-thumb.54bdb5ddd2fc5215d059.png",
     "index.html": "/index.html",
     "main.1fbdf508.css.map": "/static/css/main.1fbdf508.css.map",
-    "main.821df83b.js.map": "/static/js/main.821df83b.js.map",
+    "main.83b4b28a.js.map": "/static/js/main.83b4b28a.js.map",
     "787.815ecc04.chunk.js.map": "/static/js/787.815ecc04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fbdf508.css",
-    "static/js/main.821df83b.js"
+    "static/js/main.83b4b28a.js"
   ]
 }
