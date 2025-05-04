@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fbdf508.css",
-    "main.js": "/static/js/main.1b7a4569.js",
+    "main.css": "/static/css/main.4a58aa85.css",
+    "main.js": "/static/js/main.2cb3bd8e.js",
     "static/js/787.815ecc04.chunk.js": "/static/js/787.815ecc04.chunk.js",
+    "static/media/about-pic-1.png": "/static/media/about-pic-1.bd27cd8eb88166448f82.png",
     "static/media/km-awards-events-thumb.png": "/static/media/km-awards-events-thumb.ef570f1a9dff62208a67.png",
     "static/media/dalaroy-thumb.png": "/static/media/dalaroy-thumb.09878ac3d2a9d7a7741a.png",
     "static/media/km-edm-5.jpg": "/static/media/km-edm-5.c701aabdad1ddd8e2c60.jpg",
@@ -74,28 +75,28 @@
     "static/media/peramoko-2.jpg": "/static/media/peramoko-2.783d108fed8f8ac92013.jpg",
     "static/media/peramoko-4.jpg": "/static/media/peramoko-4.539573943f432225775c.jpg",
     "static/media/peramoko-10.jpg": "/static/media/peramoko-10.f7e83db1c13fc656e6e6.jpg",
+    "static/media/my-website-thumb.png": "/static/media/my-website-thumb.fc78c006c1bb46905ec6.png",
+    "static/media/my-website-1.jpg": "/static/media/my-website-1.e58996a4b2d686443ccd.jpg",
     "static/media/verified-international-academic-qualifications.1.png": "/static/media/verified-international-academic-qualifications.1.8c935d08e0924bc9a150.png",
     "static/media/peramoko-11.jpg": "/static/media/peramoko-11.a432cb98c10c98b1f863.jpg",
     "static/media/yummy-vites-thumb.jpg": "/static/media/yummy-vites-thumb.f3396b09230aefc74a63.jpg",
     "static/media/rezyd-thumb.jpg": "/static/media/rezyd-thumb.3d32bc2e6571a634f941.jpg",
-    "static/media/my-website-thumb.png": "/static/media/my-website-thumb.2fa44efb69b2a8c95d90.png",
     "static/media/peramoko-3.jpg": "/static/media/peramoko-3.72b5b3e00812f3518597.jpg",
     "static/media/peramoko-9.jpg": "/static/media/peramoko-9.2909ff6b5a3bcee7d5c5.jpg",
     "static/media/fan-art-3.jpg": "/static/media/fan-art-3.cbfe3cbd661dce65898d.jpg",
     "static/media/km-awards-events-thumb.jpg": "/static/media/km-awards-events-thumb.c46f539bef26564031b1.jpg",
     "static/media/excel-to-table-thumb.png": "/static/media/excel-to-table-thumb.b0275252f427c17916b2.png",
-    "static/media/my-website-1.jpg": "/static/media/my-website-1.e4f638d988ac48366168.jpg",
     "static/media/dalaroy-thumb.jpg": "/static/media/dalaroy-thumb.66bec8339af417d7faaf.jpg",
     "static/media/km-edm-thumb.jpg": "/static/media/km-edm-thumb.58625b74b2c5d7c97aab.jpg",
     "static/media/widget-thumb.jpg": "/static/media/widget-thumb.1d5d63ab935be70c91e2.jpg",
     "static/media/peramoko-thumb.png": "/static/media/peramoko-thumb.54bdb5ddd2fc5215d059.png",
     "index.html": "/index.html",
-    "main.1fbdf508.css.map": "/static/css/main.1fbdf508.css.map",
-    "main.1b7a4569.js.map": "/static/js/main.1b7a4569.js.map",
+    "main.4a58aa85.css.map": "/static/css/main.4a58aa85.css.map",
+    "main.2cb3bd8e.js.map": "/static/js/main.2cb3bd8e.js.map",
     "787.815ecc04.chunk.js.map": "/static/js/787.815ecc04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fbdf508.css",
-    "static/js/main.1b7a4569.js"
+    "static/css/main.4a58aa85.css",
+    "static/js/main.2cb3bd8e.js"
   ]
 }
