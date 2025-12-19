@@ -74,7 +74,7 @@ export default function Home() {
                     <div id="hero-banner" className="primary-banner section">    
                         <div className="context">
                             <h1>GELVIN</h1>
-                            <div className="banner-sub-text"><h2>&lt; Front-end Developer / Graphic Designer &gt;</h2></div>
+                            <div className="banner-sub-text"><h2>&lt; Building digital experiences, one pixel at a time &gt;</h2></div>
                         </div>
                         <div className="area" >
                                     <ul className="circles">
@@ -101,13 +101,13 @@ export default function Home() {
                                 <div className="col-lg-6">
                                 <h2>About Me</h2>
 
-                                <p>My professional crafts are technology and design, while music is what drives me. Considering how closely those three are related, a fantastic user experience is always the end outcome. And because I work as a front-end developer, I get to enjoy my favorite playlist while doing what I love.
+                                <p>I am a passionate web developer with a strong foundation in graphic design principles. This background allows me to approach projects with a unique perspective, focusing not only on fucntionality but also on creating visually engaging and user-friendly experiences.
                                 </p>
                                 <p>I have been developing websites for the past 8 years since I received my degree in the field of computer science. I develop intelligent websites and emails that complies with web standards, as well as creating graphic designs and web contents.
                                 </p>
                                 <p>Since the world is constantly evolving, I am highly receptive to learning new technologies, ideas and concepts. I am a certified team player, which is unquestionably a skill required to maintain a highly motivated and cooperative team.
                                 </p>
-                                <p>With all that being said, let's connect so we can talk more about my professional journey... <i>or maybe our shared taste in music</i>.
+                                <p>With all that being said, let's connect so we can talk more about my professional journey.
                                 </p>
 
 

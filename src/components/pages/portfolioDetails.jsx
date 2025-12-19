@@ -30,11 +30,15 @@ export default function PortfolioDetails(){
     var  { name , id } = useParams(); 
     var data;
     var breakLoop = false;
+
+    var descriptionParagraphs;
     portfolioDataList.map((portfolioData, index) => {
         // console.log('name: ' + portfolioData.name.toLowerCase() + ' vs ' + name.replace(/-/g , ' ').toLowerCase());
         if(!breakLoop){
             if(portfolioData.name.toLowerCase().toString() === name.replace(/-/g  , ' ').toLowerCase().toString() && portfolioData.id.toString() === id.toString()){
                 data = (portfolioData);
+                descriptionParagraphs = data.description.split('\n');
+
                 breakLoop = true;
             }
             return '';
@@ -97,7 +101,12 @@ export default function PortfolioDetails(){
 
 
                             <div className="portfolio-description">
-                                <p>{data.description}</p>
+                                <div>{descriptionParagraphs.map((lines, index) => {
+
+                                        return(
+                                            <p>{lines}</p>
+                                        );
+                                    })}</div>
                                 <br /><br />
 
                                 {linkListHeader}

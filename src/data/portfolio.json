@@ -1,7 +1,77 @@
 [
+  {
+      "id": 18,
+      "name": "Smith Bros Floors Business Card",
+      "thumbnail": "sbf-card-thumb.jpg",
+      "summary": "Designed a modernized business card of a flooring company while honoring their long history and commitment to quality",
+      "description": "For a company specializing in hardwood, the visual connection to their product was essential. I presented the client with two distinct design directions: one utilizing modern flat colors and another featuring rich wood-grain patterns. The client selected the textured approach, which provides an immediate tactile and visual association with their craft. To ensure brand continuity, I anchored the design with their signature corporate black, creating a high-contrast, premium look that feels as sturdy as the floors they install. \n Since Smith Bros. Floors has been in operation since 1918, it was important to convey their expertise and steady growth. I implemented a dynamic diagonal line that cuts across the card from left to right, moving upward to symbolize a trajectory of sustained success. This is further reinforced by the triangular geometric elements in the top right corner. These shapes serve as metaphors for mountains or upward-pointing arrows, representing ambition, growth, and the peak of professional quality. \n The card’s layout is designed for maximum clarity in a sales environment. By isolating the contact information on the warm wood-toned section, I ensured that the name and credentials of the representative remain the primary focus. The inclusion of the heritage logo and the established date prominently at the top reinforces a sense of trust and reliability, reminding potential clients that they are dealing with ‘The Hardwood Floor Experts.’",
+      "images": [
+             { "url": "sbf-card-1.jpg", "alt": "Smith Bros Floors Business Card Design " }
+        ],
+        "links":[]
+    }, 
+  {
+      "id": 17,
+      "name": "Tri C Electric Logo Design",
+      "thumbnail": "tri-c-logo-thumb.jpg",
+      "summary": "Created a bold, high-impact logo for an electrical company that visually represents the founder’s story",
+      "description": "The brand name, TRI-C, stems from the founder’s observation of patterns of three in his life and his own name, Chris. To honor this, I meticulously woven the element of three throughout the entire visual identity. The logo features three distinct colors (Red, Yellow, and Black), three lightning bolt rays at the crown, three rods on the internal plug icon, and three yellow coils at the base of the bulb. This subtle repetition creates a cohesive and meaningful brand story that is deeply personal to the client. \n The centerpiece of the design is a lightbulb that integrates multiple industry-specific visuals. I designed the filament to double as a power plug, immediately identifying the company’s core service. Furthermore, I incorporated a black ‘disk’ or swoosh around the center of the bulb, which I shaped to subtly form the letter ‘C,’ a nod to both the brand name and the founder. This layering of symbols ensures the logo is both functional and intellectually engaging. \n The client requested a high-energy palette of red, yellow, and black. I chose to utilize gradients to give the logo a modern, three-dimensional feel, allowing the warm tones to ‘glow’ like an active light source. For the typography, I ensured ‘TRI-C’ remained the most prominent text element, using a bold, italicized font that conveys speed, energy, and reliability—essential traits for an electrical service provider.",
+      "images": [
+             { "url": "tri-c-logo-1.jpg", "alt": "Tri-C Electric Logo Design 1" },
+             { "url": "tri-c-logo-2.jpg", "alt": "Tri-C Electric Logo Design 2" },
+             { "url": "tri-c-logo-3.jpg", "alt": "Tri-C Electric Logo Design 3" }
+        ],
+        "links":[]
+    }, 
+  {
+      "id": 16,
+      "name": "Simpli Dental Folder Design",
+      "thumbnail": "simpli-dental-folder-thumb.jpg",
+      "summary": "Designed a professional and cohesive presentation folder for simpli.dental, intended for organizing patient documents",
+      "description": "Building on the visual language established in the clinic's event banner, I utilized a teal and blue-green color palette to add vitality to their primary black and white branding. By applying the same fluid, wave-inspired graphics found in the banner, I created a consistent brand experience across all physical marketing materials. This teal hue was specifically chosen to evoke feelings of clinical cleanliness and modern, high-quality care. \n The folder’s layout prioritizes a clean and uncluttered aesthetic to help patients feel calm and organized. The front cover clearly displays the clinic’s tagline—'Your Quality and Accessible Dental Care in Calgary'—anchored by the primary logo. To maximize utility, I included a streamlined list of core services, such as Hygiene, Orthodontics, and Dentures, ensuring that the practice’s full scope is visible at a glance. \n To bridge the gap between physical and digital engagement, I integrated a high-visibility 'SCAN ME!' QR code on the front cover. This allows patients to easily access the clinic’s website or booking portal directly from their mobile devices. The footer includes consistent contact details, including the website URL, physical address, and phone number, ensuring all essential communication channels are readily available.",
+      "images": [
+             { "url": "simpli-dental-folder-1.jpg", "alt": "Simpli Dental Folder Design" }
+        ],
+        "links":[]
+    }, 
     {
+      "id": 15,
+      "name": "Simpli Dental Banner Design",
+      "thumbnail": "simpli-dental-banner-thumb.jpg",
+      "summary": "Designed a clean, high-impact event banner for simpli.dental with clear incentives and service highlights",
+      "description": "While the clinic’s core branding is a minimalist black and white, this project required a more dynamic palette to stand out in a busy event environment. I introduced a teal and blue-green color scheme to symbolize clinical cleanliness and modern care. This splash of color provides a refreshing contrast to the black and white logo, making the banner feel vibrant and inviting without losing its professional edge. \n The primary goal was to entice potential new patients using a 'gift option' strategy. I created a dedicated 'New Patient Exam Gift Options' section, utilizing product photography and clean layout boxes to clearly present the choice between a Philips Sonicare toothbrush or a whitening kit. By highlighting the word 'FREE' and using a structured 'Gift Options' area, I created a compelling visual hook that speaks directly to their interests. \n To ensure the broad capabilities were communicated at a glance, a section showing their services is provided. Each service—from Orthodontics to Emergency Care—is paired with a minimalist line icon to aid in quick scannability. The design is anchored by a prominent 'SCAN ME!' QR code and clear contact icons at the bottom, ensuring that the transition from interested passerby to new patient is as seamless as possible.",
+      "images": [
+             { "url": "simpli-dental-banner-1.jpg", "alt": "Simpli Dental Banner" }
+        ],
+        "links":[]
+    }, 
+  {
+      "id": 14,
+      "name": "Smile With Joy Banner Design",
+      "thumbnail": "smile-with-joy-banner-thumb.jpg",
+      "summary": "Designed an eye-catching, professional, and welcoming pull-up banner for a dental hygiene booth",
+      "description": "The primary challenge was to bridge the gap between clinical reliability and a high-energy event atmosphere. To achieve this, I utilized the client’s brand color palette, leaning into soft pinks and vibrant yellows to create a warm, approachable feel. By integrating playful graphic elements—such as the JOY typography with a built-in smile and subtle sparkle icons—I ensured the design felt at home in a concert setting while maintaining the integrity of a healthcare provider. \n Since the target audience consisted of younger concert-goers, the visual hierarchy needed to be modern and engaging rather than rigid. I used dynamic, fluid wave shapes to break up the sections, moving away from traditional boxy layouts. This professional-yet-playful approach was designed specifically to build trust; it presents Joy Cortez-Benitez as an expert who is both highly qualified and personally relatable, making dental care feel less intimidating to a younger demographic. \n Beyond aesthetics, the banner serves as a functional touchpoint for the booth. I ensured that all essential information—from the service list to the physical location—was organized for quick scanning. I strategically placed a high-contrast QR code in the bottom corner for immediate 'Book Now' accessibility, allowing busy event attendees to engage with the business instantly without needing to stop and type in a URL.",
+      "images": [
+             { "url": "smile-with-joy-banner-1.jpg", "alt": "Smile With Joy Banner" }
+        ],
+        "links":[]
+    },  
+  {
+      "id": 13,
+      "name": "Smile With Joy Social Media Design",
+      "thumbnail": "smile-with-joy-thumb.jpg",
+      "summary": "For Smile with Joy, a dedicated dental hygienist, I developed a series of social media graphics to highlight her services",
+      "description": "For Smile with Joy, a dedicated dental hygienist, I developed a series of social media graphics to highlight her services. The goal was to create a friendly and professional visual presence that would resonate with her clients. To achieve a cohesive look, I carefully integrated the branding colors and clean aesthetics from the main Simpli.dental brand. I designed three variations of the graphic, each with subtle differences in key elements, providing the client with options for her social media content. This approach not only offered flexibility but also demonstrated my ability to deliver creative solutions while maintaining a consistent brand identity. The final designs successfully communicated her expertise, detailing her services and including all essential contact information. This project highlights my skill in creating tailored, on-brand visuals for individual professionals, ensuring their social media presence is both professional and visually engaging.",
+      "images": [
+             { "url": "smile-with-joy-1.jpg", "alt": "Smile With Joy Social Media Design 1" },
+            { "url": "smile-with-joy-2.jpg", "alt": "Smile With Joy Social Media Design 2" },
+            { "url": "smile-with-joy-3.jpg", "alt": "Smile With Joy Social Media Design 3" }
+        ],
+        "links":[]
+    },  
+  {
       "id": 1,
-      "name": "Key Media Award and Event Sites",
+      "name": "Key Media Award and Event Websites",
       "thumbnail": "km-awards-events-thumb.png",
       "summary": "Award and Event websites created with Wordpress which features information on company events",
       "description": "Key Media is an events and publishing company and it delivers content in multiple platforms like websites and magazines. It is a company that holds annual events which features award winning individuals or companies in their fields like law, insurance, mortgage, etc.\n\nAs part of the development team, award and event sites were created using wordpress. These sites features information on the event. Besides working on the features on these websites, I am also involved in managing the contents, optimize images and assisting the events team with their change requests.",
@@ -210,19 +280,6 @@
         "images": [
               { "url": "wert-banners-1.jpg", "alt": "wert banner" },
               { "url": "wert-banners-2.jpg", "alt": "wert banner 2" }
-          ],
-          "links":[]
-      },
-      {
-        "id": 14,
-        "name": "Fan Art",
-        "thumbnail": "fan-art-thumb.png",
-        "summary": "I create fan art of my favorite game characters during my free time",
-        "description": "I create fan art of my favorite game characters during my free time.",
-        "images": [
-              { "url": "fan-art-1.jpg", "alt": "fan art" },
-              { "url": "fan-art-2.jpg", "alt": "fan art 2" },
-              { "url": "fan-art-3.jpg", "alt": "fan art 3" }
           ],
           "links":[]
       }

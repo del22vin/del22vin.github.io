@@ -36,7 +36,7 @@
 .context h2{
     color: #87e0f1;
     text-align: center;
-    font-size: 23px;
+    font-size: 21px;
 }
 
 .area{
@@ -405,7 +405,7 @@
   
   .change-bg {
     width: 262px;
-    height: 282px;
+    height: 224px;
     transform: translate(3%,-3%);
   }
 

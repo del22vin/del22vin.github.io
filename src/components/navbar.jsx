@@ -23,7 +23,7 @@ export default function NavBar() {
                     <ul>
                         <li><a href="/">Home</a></li>
                         <li><a href="/#/portfolio">My Portfolio</a></li>
-                        <li><a href={ResumePdf} target="_blank">My Resume</a></li>
+                        {/* <li><a href={ResumePdf} target="_blank">My Resume</a></li> */}
                     </ul>
                     </nav> 
                 </div>

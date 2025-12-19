@@ -36,7 +36,7 @@ export default function Contact() {
                                 
                                 
                             </div>
-                            <div className="copyright">© Gelvin De Leon 2023</div>
+                            <div className="copyright">© Gelvin De Leon 2025</div>
                         </div>
                     </div>
                 </div>
