@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31fb4ddb.css",
-    "main.js": "/static/js/main.7e77ef25.js",
+    "main.css": "/static/css/main.3107be0a.css",
+    "main.js": "/static/js/main.cb8a61b8.js",
     "static/js/787.815ecc04.chunk.js": "/static/js/787.815ecc04.chunk.js",
     "static/media/about-pic-1.png": "/static/media/about-pic-1.bd27cd8eb88166448f82.png",
     "static/media/km-awards-events-thumb.png": "/static/media/km-awards-events-thumb.ef570f1a9dff62208a67.png",
@@ -110,12 +110,12 @@
     "static/media/peramoko-thumb.png": "/static/media/peramoko-thumb.54bdb5ddd2fc5215d059.png",
     "static/media/simpli-dental-folder-thumb.jpg": "/static/media/simpli-dental-folder-thumb.e2082868fe65289504c9.jpg",
     "index.html": "/index.html",
-    "main.31fb4ddb.css.map": "/static/css/main.31fb4ddb.css.map",
-    "main.7e77ef25.js.map": "/static/js/main.7e77ef25.js.map",
+    "main.3107be0a.css.map": "/static/css/main.3107be0a.css.map",
+    "main.cb8a61b8.js.map": "/static/js/main.cb8a61b8.js.map",
     "787.815ecc04.chunk.js.map": "/static/js/787.815ecc04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31fb4ddb.css",
-    "static/js/main.7e77ef25.js"
+    "static/css/main.3107be0a.css",
+    "static/js/main.cb8a61b8.js"
   ]
 }
