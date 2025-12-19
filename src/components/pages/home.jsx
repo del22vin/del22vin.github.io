@@ -101,14 +101,10 @@ export default function Home() {
                                 <div className="col-lg-6">
                                 <h2>About Me</h2>
 
-                                <p>I am a passionate web developer with a strong foundation in graphic design principles. This background allows me to approach projects with a unique perspective, focusing not only on fucntionality but also on creating visually engaging and user-friendly experiences.
-                                </p>
-                                <p>I have been developing websites for the past 8 years since I received my degree in the field of computer science. I develop intelligent websites and emails that complies with web standards, as well as creating graphic designs and web contents.
-                                </p>
-                                <p>Since the world is constantly evolving, I am highly receptive to learning new technologies, ideas and concepts. I am a certified team player, which is unquestionably a skill required to maintain a highly motivated and cooperative team.
-                                </p>
-                                <p>With all that being said, let's connect so we can talk more about my professional journey.
-                                </p>
+                                <p>I am a <strong>Graphic Designer and Front-End Web Developer</strong> with a degree in Computer Science and over 8 years of experience building digital and physical brand identities. My unique edge lies in the intersection of technical precision and creative storytelling. Whether I am designing a high-impact event banner for a dental clinic or developing a standards-compliant website, I focus on creating experiences that are as functional as they are visually compelling.</p>
+                                <p>My design philosophy is rooted in <strong>strategic visual communication</strong>. From incorporating symbolic "Rules of Three" in custom logo design to using geometric metaphors for growth and success in corporate branding, I don't just create visuals&mdash;I build narratives that foster trust. I specialize in expanding minimalist brand identities into vibrant, patient-centered marketing materials and high-energy event assets tailored to specific demographics.</p>
+                                <p>As a lifelong learner in a constantly evolving industry, I stay receptive to new technologies and design concepts. I am a certified team player who thrives in collaborative environments, ensuring that every project&mdash;from email templates to complex print suites&mdash;exceeds client expectations.</p>
+                                <p>Let&rsquo;s connect and talk about how we can bring your next vision to life.</p>
 
 
                                 </div>
@@ -128,6 +124,12 @@ export default function Home() {
                                             <img src={require("../../images/verified-international-academic-qualifications.1.png")} alt="wes badge" /> 
                                             <span className="wes-badge-verified">Verified International Academic Qualifications</span>
                                             <span className="wes-badge-issuer">Issuer: World Education Services</span>
+                                        </a>
+
+                                        <a id="sait-badge" href="https://www.credly.com/badges/13d61736-f9df-473e-8a21-1863868b725a/public_url" target="_blank">
+                                            <img src={require("../../images/applied-user-experience-ux-design.png")} alt="sait badge" /> 
+                                            <span className="wes-badge-verified">Applied User Experience (UX) Design</span>
+                                            <span className="wes-badge-issuer">Issuer: Southern Alberta Institute of Technology</span>
                                         </a>
                                     
                                     </div>
