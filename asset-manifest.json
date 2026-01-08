@@ -1,11 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.3107be0a.css",
-    "main.js": "/static/js/main.cb8a61b8.js",
+    "main.js": "/static/js/main.7421a719.js",
     "static/js/787.815ecc04.chunk.js": "/static/js/787.815ecc04.chunk.js",
+    "static/media/cratic-4.jpg": "/static/media/cratic-4.6ebe19132571aed8c054.jpg",
+    "static/media/cratic-3.jpg": "/static/media/cratic-3.43f103d573658cbb213c.jpg",
+    "static/media/cratic-10.jpg": "/static/media/cratic-10.966da9ec61ca9e5c1407.jpg",
+    "static/media/cratic-12.jpg": "/static/media/cratic-12.76c511b9315071b5cf97.jpg",
+    "static/media/cratic-11.jpg": "/static/media/cratic-11.51c38f7b6dab82ab2343.jpg",
+    "static/media/cratic-2.jpg": "/static/media/cratic-2.1a8ff4fa6a075d1bb2f6.jpg",
+    "static/media/cratic-6.jpg": "/static/media/cratic-6.1a315ed0be09c57102c4.jpg",
+    "static/media/cratic-5.jpg": "/static/media/cratic-5.0cf7c4cf88a97504013e.jpg",
+    "static/media/cratic-9.jpg": "/static/media/cratic-9.e4bcca29a3852e39450d.jpg",
+    "static/media/cratic-1.jpg": "/static/media/cratic-1.cfdc903b079bfba8ab96.jpg",
+    "static/media/cratic-7.jpg": "/static/media/cratic-7.6e2757e4b89b4b46dae7.jpg",
+    "static/media/cratic-8.jpg": "/static/media/cratic-8.df38e979538510ea1c2c.jpg",
     "static/media/about-pic-1.png": "/static/media/about-pic-1.bd27cd8eb88166448f82.png",
+    "static/media/img-cratic-3.jpg": "/static/media/img-cratic-3.8798711d4e196def119d.jpg",
+    "static/media/img-cratic-7.jpg": "/static/media/img-cratic-7.ffdff9f37fbfd6697a33.jpg",
+    "static/media/img-cratic-10.jpg": "/static/media/img-cratic-10.0b2083e48c6fcdbffdf9.jpg",
+    "static/media/img-cratic-4.jpg": "/static/media/img-cratic-4.664a0f3d8e2fbbab2405.jpg",
+    "static/media/img-cratic-6.jpg": "/static/media/img-cratic-6.62ccda0e107503321dfe.jpg",
     "static/media/km-awards-events-thumb.png": "/static/media/km-awards-events-thumb.ef570f1a9dff62208a67.png",
+    "static/media/img-cratic-2.jpg": "/static/media/img-cratic-2.f26ca9e0a4cd84592178.jpg",
+    "static/media/img-cratic-8.jpg": "/static/media/img-cratic-8.1fbdf9bf931fac95d01b.jpg",
     "static/media/dalaroy-thumb.png": "/static/media/dalaroy-thumb.09878ac3d2a9d7a7741a.png",
+    "static/media/img-cratic-9.jpg": "/static/media/img-cratic-9.7529d60c9eb6b610de38.jpg",
     "static/media/km-edm-5.jpg": "/static/media/km-edm-5.c701aabdad1ddd8e2c60.jpg",
     "static/media/km-edm-2.jpg": "/static/media/km-edm-2.7567539d0219499f5d8c.jpg",
     "static/media/km-edm-4.jpg": "/static/media/km-edm-4.45acca87aa2fb5bec5da.jpg",
@@ -15,6 +35,7 @@
     "static/media/km-awards-events-1.jpg": "/static/media/km-awards-events-1.588a7455a0b60462a5b9.jpg",
     "static/media/da-2.jpg": "/static/media/da-2.012b26c5614f63fcf872.jpg",
     "static/media/excel-to-table-2.jpg": "/static/media/excel-to-table-2.94ce66b6f555221e35dc.jpg",
+    "static/media/img-cratic-1.jpg": "/static/media/img-cratic-1.20b93c87865415f516ab.jpg",
     "static/media/about-pic.png": "/static/media/about-pic.efa29d79ec0cc496b3b0.png",
     "static/media/fan-art-2.jpg": "/static/media/fan-art-2.83d0a79d45f37242c34a.jpg",
     "static/media/da-1.jpg": "/static/media/da-1.32d623abd4df861ec064.jpg",
@@ -77,6 +98,7 @@
     "static/media/peramoko-12.jpg": "/static/media/peramoko-12.4f1f65197fd54fe099c9.jpg",
     "static/media/da-thumb.jpg": "/static/media/da-thumb.19ad38378f68f7845edd.jpg",
     "static/media/peramoko-5.jpg": "/static/media/peramoko-5.7629073800f12c84d3c7.jpg",
+    "static/media/img-sbf-card-1.jpg": "/static/media/img-sbf-card-1.4a589fd22435fe9d5637.jpg",
     "static/media/sbf-card-1.jpg": "/static/media/sbf-card-1.4a589fd22435fe9d5637.jpg",
     "static/media/peramoko-6.jpg": "/static/media/peramoko-6.628b8b94eb8f633c30ce.jpg",
     "static/media/peramoko-2.jpg": "/static/media/peramoko-2.783d108fed8f8ac92013.jpg",
@@ -111,11 +133,11 @@
     "static/media/simpli-dental-folder-thumb.jpg": "/static/media/simpli-dental-folder-thumb.e2082868fe65289504c9.jpg",
     "index.html": "/index.html",
     "main.3107be0a.css.map": "/static/css/main.3107be0a.css.map",
-    "main.cb8a61b8.js.map": "/static/js/main.cb8a61b8.js.map",
+    "main.7421a719.js.map": "/static/js/main.7421a719.js.map",
     "787.815ecc04.chunk.js.map": "/static/js/787.815ecc04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3107be0a.css",
-    "static/js/main.cb8a61b8.js"
+    "static/js/main.7421a719.js"
   ]
 }
