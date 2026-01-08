@@ -103,9 +103,18 @@ export default function PortfolioDetails(){
                             <div className="portfolio-description">
                                 <div>{descriptionParagraphs.map((lines, index) => {
 
-                                        return(
-                                            <p>{lines}</p>
-                                        );
+                                        if(lines.includes("img")){
+
+                                            return(
+                                                  <p><img style={{ width: '100%' }} src={require('../../images/' + lines.substring(lines.indexOf("img")))} alt="" /></p>
+                                            );
+                                        }
+                                        else{
+                                            return(
+                                                <p>{lines}</p>
+                                            );
+                                        }
+                                     
                                     })}</div>
                                 <br /><br />
 
