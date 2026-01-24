@@ -38,10 +38,7 @@
         scroll-snap-type: none !important;
     }
     
-    #about-me{
-        height: auto;
-        padding: 80px 0px;
-    }
+    
     #contact {
         height: auto;
         padding: 72px 0;

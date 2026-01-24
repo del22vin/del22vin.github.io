@@ -1,13 +1,15 @@
 
-html{
+/* for snap scrolling */
+/* html{
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
     overflow: -moz-scrollbars-none; 
     -ms-overflow-style: none;
     scroll-behavior: smooth;
-}
+} */
 
-html.noScroll::-webkit-scrollbar { width: 0 !important }
+/* for removing scroll bar when snap scrolling is enabled */
+/* html.noScroll::-webkit-scrollbar { width: 0 !important } */
 
 .home-comp .section{
   scroll-snap-align: start;

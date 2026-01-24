@@ -175,7 +175,7 @@
 
 
 #about-me{
-    height: 100vh;
+    padding: 60px 0 60px 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -507,7 +507,7 @@
     }
 
     #about-me-graphics img#about-me-graphics-img{
-        padding: 56px 0;
+        padding: 24px 0;
         width: 100%;
         max-width: 512px;
     }
@@ -523,9 +523,8 @@
     
     #about-me{
         height: auto;
-        padding: 80px 0px;
+        padding: 50px 0px;
     }
- 
  
 }
 
@@ -584,6 +583,11 @@
     }
     .works-graphics-content {
         margin-bottom: 32px;
+    }
+
+    #portfolio > .container > .row .works-content{
+        height: auto;
+        padding: 80px 20px;
     }
 
 

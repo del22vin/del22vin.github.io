@@ -98,26 +98,30 @@ export default function Home() {
                     <div id="about-me" className="section">
                         <div id="about-me-content" className="container " style={{display: 'none'}}>
                             <div className="row">
-                                <div className="col-lg-6">
+                                <div className="col-lg-7">
                                 <h2>About Me</h2>
-
-                                <p>I am a <strong>Graphic Designer and Front-End Web Developer</strong> with a degree in Computer Science and over 8 years of experience building digital and physical brand identities. My unique edge lies in the intersection of technical precision and creative storytelling. Whether I am designing a high-impact event banner for a dental clinic or developing a standards-compliant website, I focus on creating experiences that are as functional as they are visually compelling.</p>
-                                <p>My design philosophy is rooted in <strong>strategic visual communication</strong>. From incorporating symbolic "Rules of Three" in custom logo design to using geometric metaphors for growth and success in corporate branding, I don't just create visuals&mdash;I build narratives that foster trust. I specialize in expanding minimalist brand identities into vibrant, patient-centered marketing materials and high-energy event assets tailored to specific demographics.</p>
-                                <p>As a lifelong learner in a constantly evolving industry, I stay receptive to new technologies and design concepts. I am a certified team player who thrives in collaborative environments, ensuring that every project&mdash;from email templates to complex print suites&mdash;exceeds client expectations.</p>
-                                <p>Let&rsquo;s connect and talk about how we can bring your next vision to life.</p>
+                                <br/>
+                                <h4><b>Who I Am</b></h4>
+                                <p>I am a <b>Visual &amp; UI/UX Designer</b> based in <b>Calgary</b> with a foundational background in <b>Front-End Development</b>. My career began in code, but my lifelong passion for art naturally pulled me into the world of <b>Graphic Design</b> and <b>Multimedia</b>. Today, I bridge the gap between technical logic and visual storytelling. Having earned a <b>Specialization in Applied UX Design from SAIT</b>, I focus on building user-centered digital products while maintaining a high standard for <b>Brand Identity, Logo Design, and Motion Graphics</b>. Whether I am architecting a complex interface or producing <b>high-impact video content</b>, I design with a &quot;Build-First&quot; mindset&mdash;ensuring everything I create is both <b>visually stunning and technically feasible</b>.</p>
+                                <br/>
+                                <h4><b>How I Work</b></h4>
+                                <p>What sets me apart is my <b>technical literacy</b>. Because I speak the language of <b>Front-End Development (HTML/CSS/JS)</b>, I don&rsquo;t just design &quot;pretty screens&quot;&mdash;I design systems that are <b>technically feasible</b> and ready for engineering. I thrive at the intersection of <b>logic and creativity</b>, whether I&apos;m mapping out complex <b>user journeys</b> or hand-crafting <b>pixel-perfect interfaces</b>.</p>
+                                <br/>
+                                <h4><b>Why I Do It</b></h4>
+                                <p>Beyond the pixels, I am a <b>musician</b> and a <b>problem-solver</b>. My background in music has taught me the importance of <b>rhythm, harmony, and precision</b>&mdash;principles I bring into every <b>design system</b> I build. I believe in <b>clean code</b>, <b>fair collaboration</b>, and products that respect the human beings using them.</p>
 
 
                                 </div>
                                 
 
-                                <div className="col-lg-6 graphics-container">
+                                <div className="col-lg-5 graphics-container">
                                 
                                 
                                 
                                 
                                     <div  id="about-me-graphics" >
                                     
-                                        <img id="about-me-graphics-img" src={require('../../images/about-pic.png')} alt="about me"/> 
+                                        <img id="about-me-graphics-img" src={require('../../images/about-pic-2.png')} alt="about me"/> 
 
 
                                         <a id="wes-badge" href="https://www.credly.com/badges/b3cfff52-dd4b-4f32-ac5c-322bc11b0231/public_url" target="_blank">
@@ -164,7 +168,7 @@ export default function Home() {
                                                 <FontAwesomeIcon className="fa-paint-brush" icon={faPaintbrush} />
                                             </div>
                                             <h2>My Portfolio</h2>
-                                            <p>Over the years, I've created websites, solutions, and designs in different projects globally such as financial services, lending, business promotion, awards, and event sites.</p>    
+                                            <p>A collection of works ranging from front-end development and multi-channel graphic design to certified UX research. I've spent nearly a decade building brands and digital solutions for financial services, global events, and business promotions.</p>    
                                             <a href="/#/portfolio">SEE MY WORKS</a>
                                             
                                         </div>
