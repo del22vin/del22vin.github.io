@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3107be0a.css",
-    "main.js": "/static/js/main.7421a719.js",
+    "main.css": "/static/css/main.e591842c.css",
+    "main.js": "/static/js/main.03842726.js",
     "static/js/787.815ecc04.chunk.js": "/static/js/787.815ecc04.chunk.js",
     "static/media/cratic-4.jpg": "/static/media/cratic-4.6ebe19132571aed8c054.jpg",
     "static/media/cratic-3.jpg": "/static/media/cratic-3.43f103d573658cbb213c.jpg",
@@ -11,6 +11,7 @@
     "static/media/cratic-2.jpg": "/static/media/cratic-2.1a8ff4fa6a075d1bb2f6.jpg",
     "static/media/cratic-6.jpg": "/static/media/cratic-6.1a315ed0be09c57102c4.jpg",
     "static/media/cratic-5.jpg": "/static/media/cratic-5.0cf7c4cf88a97504013e.jpg",
+    "static/media/about-pic-2.png": "/static/media/about-pic-2.283808dd010df25e9453.png",
     "static/media/cratic-9.jpg": "/static/media/cratic-9.e4bcca29a3852e39450d.jpg",
     "static/media/cratic-1.jpg": "/static/media/cratic-1.cfdc903b079bfba8ab96.jpg",
     "static/media/cratic-7.jpg": "/static/media/cratic-7.6e2757e4b89b4b46dae7.jpg",
@@ -132,12 +133,12 @@
     "static/media/peramoko-thumb.png": "/static/media/peramoko-thumb.54bdb5ddd2fc5215d059.png",
     "static/media/simpli-dental-folder-thumb.jpg": "/static/media/simpli-dental-folder-thumb.e2082868fe65289504c9.jpg",
     "index.html": "/index.html",
-    "main.3107be0a.css.map": "/static/css/main.3107be0a.css.map",
-    "main.7421a719.js.map": "/static/js/main.7421a719.js.map",
+    "main.e591842c.css.map": "/static/css/main.e591842c.css.map",
+    "main.03842726.js.map": "/static/js/main.03842726.js.map",
     "787.815ecc04.chunk.js.map": "/static/js/787.815ecc04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3107be0a.css",
-    "static/js/main.7421a719.js"
+    "static/css/main.e591842c.css",
+    "static/js/main.03842726.js"
   ]
 }
